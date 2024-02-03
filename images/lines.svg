@@ -1,0 +1,15 @@
+<svg width="80" height="104.99999999999999" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-opacity="0.5" id="svg_1" fill-rule="evenodd">
+   <g fill="#000" id="death-star">
+    <path fill="#9c92ac" id="svg_2" d="m20,10a5,5 0 0 1 10,0l0,50a5,5 0 0 1 -10,0l0,-50zm15,35a5,5 0 0 1 10,0l0,50a5,5 0 0 1 -10,0l0,-50zm-15,30a5,5 0 0 1 10,0l0,20a5,5 0 0 1 -10,0l0,-20zm30,-65a5,5 0 0 1 10,0l0,50a5,5 0 0 1 -10,0l0,-50zm0,65a5,5 0 0 1 10,0l0,20a5,5 0 0 1 -10,0l0,-20zm-15,-65a5,5 0 0 1 10,0l0,20a5,5 0 0 1 -10,0l0,-20zm-30,35a5,5 0 0 1 10,0l0,50a5,5 0 0 1 -10,0l0,-50zm0,-35a5,5 0 0 1 10,0l0,20a5,5 0 0 1 -10,0l0,-20zm60,35a5,5 0 0 1 10,0l0,50a5,5 0 0 1 -10,0l0,-50zm0,-35a5,5 0 0 1 10,0l0,20a5,5 0 0 1 -10,0l0,-20z"/>
+   </g>
+  </g>
+ </g>
+</svg>
